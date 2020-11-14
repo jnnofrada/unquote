@@ -121,4 +121,5 @@ public class MainActivity extends AppCompatActivity {
             return "You got " + totalCorrect + " right out of " + totalQuestions + ". Better luck next time!";
         }
     }
+
 }
